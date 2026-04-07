@@ -1,0 +1,23 @@
+{
+  "name": "bigbasket-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shwetadudye/BigBasket-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shwetadudye/BigBasket-Backend/issues"
+  },
+  "homepage": "https://github.com/Shwetadudye/BigBasket-Backend#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
