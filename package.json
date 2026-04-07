@@ -5,10 +5,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shwetadudye/BigBasket-Backend.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
