@@ -9,7 +9,7 @@
             "category":"Electronics",
             "stock":20,
             "rating":4.9,
-            "image":"utils/electronics/iphone.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg"
         },
         {   
             "_id":"2",
@@ -17,7 +17,7 @@
             "brand":"Local Farm",
             "price":60,
             "discountPrice":50,
-            "category":"Fruits & Vegetables",
+            "category":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg",
             "stock":80,
             "rating":4.4,
             "image":"utils/fruits/banana.jpg"
@@ -31,7 +31,7 @@
             "category":"Household",
             "stock":100,
             "rating":4.6,
-            "image":"utils/household/surf.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Surf%20Excel.jpg"
         },
         {  
             "_id":"4",
@@ -42,7 +42,7 @@
             "category":"Snacks",
             "stock":200,
             "rating":4.3,
-            "image":"utils/snacks/lays.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/lays%20wayfer.jpg"
         },
         {
             "_id":"5",
@@ -53,7 +53,7 @@
             "category":"Dairy",
             "stock":100,
             "rating":4.7,
-            "image":"utils/dairy/milk.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Amul%20Milk.jpg"
         },
         {
             "_id":"6",
@@ -64,7 +64,7 @@
             "category":"Fruits & Vegetables",
             "stock":85,
             "rating":4.4,
-            "image":"utils/vegetables/tomato.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Tomato.jpg"
         },
         {
             "_id":"7",
@@ -75,7 +75,7 @@
             "category":"Electronics",
             "stock":10,
             "rating":4.7,
-            "image":"utils/electronics/tv.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/samsung%20tv.jpg"
         },
         {
             "_id":"8",
@@ -86,7 +86,7 @@
             "category":"Beverages",
             "stock":140,
             "rating":4.3,
-            "image":"utils/beverages/pepsi.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Pepsi.jpg"
         },
         {
             "_id":"9",
@@ -97,7 +97,7 @@
             "category":"Fruits & Vegetables",
             "stock":90,
             "rating":4.2,
-            "image":"utils/vegetables/onion.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Onion.jpg"
         },
         {
             "_id":"10",
@@ -108,7 +108,7 @@
             "category":"Personal Care",
             "stock":60,
             "rating":4.4,
-            "image":"utils/personal/shampoo.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Dove%20shampoo.jpg"
         },
         {
             "_id":"11",
@@ -119,7 +119,7 @@
             "category":"Dairy",
             "stock":60,
             "rating":4.6,
-            "image":"utils/dairy/butter.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/amul-butter.jpg"
         },
         {   
             "_id":"12",
@@ -130,7 +130,7 @@
             "category":"Snacks",
             "stock":180,
             "rating":4.2,
-            "image":"utils/snacks/kurkure.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/kurkure.jpg"
         },
         {
             "_id":"13",
@@ -141,18 +141,18 @@
             "category":"Fruits & Vegetables",
             "stock":70,
             "rating":4.5,
-            "image":"utils/vegetables/carrot.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/carrot.jpg"
         },
         {
             "_id":"14",
-            "name":"Boat Earbuds",
+            "name":"Boat Earpods",
             "brand":"Boat",
             "price":2000,
             "discountPrice":1500,
             "category":"Electronics",
             "stock":80,
             "rating":4.5,
-            "image":"utils/electronics/headphones.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/earpods.jpg"
         },
         {
             "_id":"15",
@@ -163,7 +163,7 @@
             "category":"Personal Care",
             "stock":70,
             "rating":4.3,
-            "image":"utils/personal/facewash.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/nivea%20facewash.jpg"
         },
         {
             "_id":"16",
@@ -174,7 +174,7 @@
             "category":"Fruits & Vegetables",
             "stock":50,
             "rating":4.5,
-            "image":"utils/fruits/apple.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/apple.jpg"
         },
         {
             "_id":"17",
@@ -185,7 +185,7 @@
             "category":"Beverages",
             "stock":100,
             "rating":4.5,
-            "image":"utils/beverages/juice.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/real%20juice.jpg"
         },
         {
             "_id":"18",
@@ -196,7 +196,7 @@
             "category":"Dairy",
             "stock":40,
             "rating":4.7,
-            "image":"utils/dairy/paneer.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/paneer.jpg"
         },
         {
             "_id":"19",
@@ -207,7 +207,7 @@
             "category":"Household",
             "stock":90,
             "rating":4.5,
-            "image":"utils/household/harpic.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/harpic.jpg"
         },
         {
             "_id":"20",
@@ -218,7 +218,7 @@
             "category":"Fruits & Vegetables",
             "stock":60,
             "rating":4.3,
-            "image":"utils/fruits/orange.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/orange.jpg"
         },
         {
             "_id":"21",
@@ -229,7 +229,7 @@
             "category":"Snacks",
             "stock":300,
             "rating":4.5,
-            "image":"utils/snacks/biscuit.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/bourbon-biscuit.jpg"
         },
         {
             "_id":"22",
@@ -240,7 +240,7 @@
             "category":"Beverages",
             "stock":150,
             "rating":4.4,
-            "image":"utils/beverages/coke.jpg"
+            "image":"https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/diet%20coke.jpg"
         },
         {
             "_id":"23",
@@ -251,7 +251,7 @@
              "category":"Fruits & Vegetables",
              "stock":100,
              "rating":4.3,
-             "image":"utils/vegetables/potato.jpg"
+             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/potato.jpg"
         },
         {
             "_id":"24",
@@ -262,7 +262,7 @@
             "category":"Electronics",
             "stock":25,
             "rating":4.6,
-            "image":"utils/electronics/mobile.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/samsung%20mobile.jpg"
         },
         {
             "_id":"25",
@@ -273,7 +273,7 @@
             "category":"Personal Care",
             "stock":200,
             "rating":4.4,
-            "image":"utils/personal/soap.jpg"
+            "image":"https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/dettol%20soap.jpg"
         },
         {
             "_id":"26",
@@ -284,7 +284,7 @@
             "category":"Fruits & Vegetables",
             "stock":30,
             "rating":4.2,
-            "image":"utils/fruits/pineapple.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/pineapple.jpg"
         },
         {
             "_id":"27",
@@ -295,7 +295,7 @@
             "category":"Snacks",
             "stock":300,
             "rating":4.8,
-            "image":"utils/snacks/maggi.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/maggie.jpg"
         },
         {
             "_id":"28",
@@ -306,7 +306,7 @@
             "category":"Household",
             "stock":80,
             "rating":4.6,
-            "image":"utils/household/ariel.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/ariel.jpg"
         },
         {
             "_id":"29",
@@ -317,7 +317,7 @@
             "category":"Dairy",
             "stock":50,
             "rating":4.7,
-            "image":"utils/dairy/cheese.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/cheese.jpg"
         },
         {
             "_id":"30",
@@ -328,18 +328,18 @@
             "category":"Electronics",
             "stock":15,
             "rating":4.7,
-            "image":"utils/electronics/laptop.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/hp%20laptop.jpg"
         },
         {
             "_id":"31",
             "name":"Strawberry",
             "brand":"Fresh Farm",
             "price":200,
-            "discountPrice":
-            180,"category":"Fruits & Vegetables",
+            "discountPrice":180,
+            "category":"Fruits & Vegetables",
             "stock":40,
             "rating":4.6,
-            "image":"utils/fruits/strawberry.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/strawberry.jpg"
         },
         { 
             "_id":"32",
@@ -350,7 +350,7 @@
             "category":"Beverages",
             "stock":100,
             "rating":4.4,
-            "image":"utils/beverages/coffee.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/coffee.jpg"
         },
         {
             "_id":"33",
@@ -361,7 +361,7 @@
             "category":"Personal Care",
             "stock":150,
             "rating":4.5,
-            "image":"utils/personal/toothpaste.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/toothpaste%20colgate.jpg"
         },
         {
             "_id":"34",
@@ -372,7 +372,7 @@
             "category":"Grocery",
             "stock":200,
             "rating":4.6,
-            "image":"utils/grocery/rice.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/basmati%20rice.jpg"
         },
         {
             "_id":"35",
@@ -383,7 +383,7 @@
             "category":"Bakery",
             "stock":120,
             "rating":4.3,
-            "image":"utils/bakery/bread.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/britannia-bread.jpg"
         },
         {
             "_id":"36",
@@ -394,7 +394,7 @@
             "category":"Fruits & Vegetables",
             "stock":60,
             "rating":4.4,
-            "image":"utils/fruits/watermelon.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/watermelon.jpg"
         },
         {
             "_id":"37",
@@ -405,7 +405,7 @@
             "category":"Electronics",
             "stock":30,
             "rating":4.3,
-            "image":"utils/electronics/fan.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/ceiling-fan.jpg"
         },
         {
             "_id":"38",
@@ -416,7 +416,7 @@
             "category":"Snacks",
             "stock":200,
             "rating":4.2,
-            "image":"utils/snacks/bingo.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/bingo%20potato%20chips.jpg"
         },
         {
             "_id":"39",
@@ -427,7 +427,7 @@
             "category":"Beverages",
             "stock":150,
             "rating":4.6,
-            "image":"utils/beverages/tea.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/tata%20tea.jpg"
         },
         {
             "_id":"40",
@@ -438,7 +438,7 @@
             "category":"Dairy",
             "stock":100,
             "rating":4.7,
-            "image":"utils/dairy/eggs.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/eggs.jpg"
         },
         {
             "_id":"41",
@@ -449,7 +449,7 @@
             "category":"Fruits & Vegetables",
             "stock":70,
             "rating":4.4,
-            "image":"utils/fruits/grapes.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/green%20grapes.jpg"
         },
         {
             "_id":"42",
