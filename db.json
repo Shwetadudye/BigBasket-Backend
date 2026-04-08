@@ -460,18 +460,18 @@
             "category":"Electronics",
             "stock":25,
             "rating":4.5,
-            "image":"utils/electronics/mixer.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/mixer.jpg"
         },
         {
             "_id":"43",
             "name":"Sugar",
-            "brand":"Tata",
+            "brand":"bb Royal",
             "price":45,
             "discountPrice":40,
             "category":"Grocery",
             "stock":200,
             "rating":4.5,
-            "image":"utils/grocery/sugar.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/sugar.jpg"
         },
         {
             "_id":"44",
@@ -482,7 +482,7 @@
             "category":"Grocery",
             "stock":220,
             "rating":4.4,
-            "image":"utils/grocery/salt.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/salt.jpg"
         },
         {
             "_id":"45",
@@ -493,7 +493,7 @@
             "category":"Personal Care",
             "stock":90,
             "rating":4.5,
-            "image":"utils/personal/lotion.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/body%20lotion.jpg"
         },
         {
              "_id":"46",
@@ -504,7 +504,7 @@
              "category":"Fruits & Vegetables",
              "stock":80,
              "rating":4.3,
-             "image":"utils/vegetables/cucumber.jpg"
+             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/cucumber.jpg"
         },
         {
             "_id":"47",
@@ -515,7 +515,7 @@
             "category":"Fruits & Vegetables",
             "stock":70,
             "rating":4.4,
-            "image":"utils/vegetables/spinach.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/spinnach.jpg"
         },
         {
             "_id":"48",
@@ -526,7 +526,7 @@
             "category":"Electronics",
             "stock":10,
             "rating":4.7,
-            "image":"utils/electronics/ac.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/induction.jpg"
         },
         {
             "_id":"49",
@@ -537,7 +537,7 @@
             "category":"Household",
             "stock":120,
             "rating":4.5,
-            "image":"utils/household/lizol.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/lizol.jpg"
         },
         {
             "_id":"50",
@@ -548,7 +548,7 @@
             "category":"Personal Care",
             "stock":150,
             "rating":4.6,
-            "image":"utils/personal/handwash.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/dettol%20handwash.jpg"
         },
         {
             "_id":"51",
@@ -559,7 +559,7 @@
             "category":"Fruits & Vegetables",
             "stock":60,
             "rating":4.3,
-            "image":"utils/fruits/papaya.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/papaya.jpg"
         },
         {
             "_id":"52",
@@ -570,7 +570,7 @@
             "category":"Fruits & Vegetables",
             "stock":40,
             "rating":4.8,
-            "image":"utils/fruits/mango.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/mango.jpg"
         },
         {
             "_id":"53",
@@ -581,7 +581,7 @@
             "category":"Accessories",
             "stock":70,
             "rating":4.4,
-            "image":"utils/accessories/bag.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/laptop%20bag.jpg"
         },
         {
             "_id":"54",
@@ -592,7 +592,7 @@
             "category":"Electronics",
             "stock":60,
             "rating":4.5,
-            "image":"utils/electronics/keyboard.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/keyboard.jpg"
         },
         {
             "_id":"55",
@@ -603,7 +603,7 @@
             "category":"Electronics",
             "stock":80,
             "rating":4.4,
-            "image":"utils/electronics/mouse.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/hp%20mouse.jpg"
         },
         {
             "_id":"56",
@@ -614,7 +614,7 @@
             "category":"Stationery",
             "stock":200,
             "rating":4.6,
-            "image":"utils/stationery/notebook.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/notebook.jpg"
         },
         {
             "_id":"57",
@@ -625,7 +625,7 @@
             "category":"Stationery",
             "stock":300,
             "rating":4.5,
-            "image":"utils/stationery/pen.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/pen.jpg"
         },
         {
             "_id":"58",
@@ -636,7 +636,7 @@
             "category":"Grocery",
             "stock":120,
             "rating":4.6,
-            "image":"utils/grocery/dal.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/toor-dal.jpg"
         },
         {
             "_id":"59",
@@ -647,7 +647,7 @@
             "category":"Grocery",
             "stock":140,
             "rating":4.5,
-            "image":"utils/grocery/oil.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/fortune%20oil.jpg"
         },
         {
             "_id":"60",
@@ -658,7 +658,7 @@
             "category":"Grocery",
             "stock":100,
             "rating":4.4,
-            "image":"utils/grocery/jam.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/kissan%20jam.jpg"
         },
         {
             "_id":"61",
@@ -669,7 +669,7 @@
             "category":"Snacks",
             "stock":200,
             "rating":4.8,
-            "image":"utils/snacks/chocolate.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/chocolate.jpg"
         },
         {
             "_id":"62",
@@ -680,7 +680,7 @@
             "category":"Dairy",
             "stock":80,
             "rating":4.7,
-            "image":"utils/dairy/icecream.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/amul%20icecream.jpg"
         },
         {
             "_id":"63",
@@ -691,7 +691,7 @@
             "category":"Home Decor",
             "stock":40,
             "rating":4.4,
-            "image":"utils/home/curtains.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/curtain.jpg"
         },
         {
             "_id":"64",
@@ -702,7 +702,7 @@
             "category":"Home Decor",
             "stock":60,
             "rating":4.5,
-            "image":"utils/home/clock.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/ajanta-wall.jpg"
         },
         {
             "_id":"65",
@@ -713,7 +713,7 @@
             "category":"Home Decor",
             "stock":30,
             "rating":4.3,
-            "image":"utils/home/sofa.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/sofa%20cover.jpg"
         },
         {
             "_id":"66",
@@ -724,7 +724,7 @@
             "category":"Electronics",
             "stock":25,
             "rating":4.5,
-            "image":"utils/electronics/juicer.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/juicer.jpg"
         },
         {
             "_id":"67",
@@ -735,7 +735,7 @@
             "category":"Electronics",
             "stock":50,
             "rating":4.4,
-            "image":"utils/electronics/iron.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iron.jpg"
         },
         {
             "_id":"68",
@@ -746,7 +746,7 @@
             "category":"Kitchen",
             "stock":20,
             "rating":4.6,
-            "image":"utils/kitchen/stove.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/gas%20stove.jpg"
         },
         {
             "_id":"69",
@@ -757,7 +757,7 @@
             "category":"Kitchen",
             "stock":25,
             "rating":4.7,
-            "image":"utils/kitchen/cooker.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/pressure%20cooker.jpg"
         },
         {
             "_id":"70",
@@ -768,7 +768,7 @@
             "category":"Kitchen",
             "stock":70,
             "rating":4.3,
-            "image":"utils/kitchen/knife.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/knief%20set.jpg"
         },
         {
             "_id":"71",
@@ -779,7 +779,7 @@
             "category":"Snacks",
             "stock":120,
             "rating":4.4,
-            "image":"utils/snacks/banana-chips.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/banana%20chips.jpg"
         },
         {
             "_id":"72",
@@ -790,7 +790,7 @@
             "category":"Beverages",
             "stock":90,
             "rating":4.6,
-            "image":"utils/beverages/greentea.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/tetley%20green%20tea.jpg"
         },
         {
             "_id":"73",
@@ -801,7 +801,7 @@
             "category":"Health",
             "stock":40,
             "rating":4.5,
-            "image":"utils/health/protein.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/muscle%20powder.jpg"
         },
         { 
             "_id":"74",
@@ -812,7 +812,7 @@
             "category":"Fitness",
             "stock":60,
             "rating":4.6,
-            "image":"utils/fitness/yogamat.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/lifelong%20yogamat.jpg"
         },
         {
             "_id":"75",
@@ -823,7 +823,7 @@
             "category":"Fitness",
             "stock":30,
             "rating":4.5,
-            "image":"utils/fitness/dumbbells.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/dumbells.jpg"
         },
         {
             "_id":"76",
@@ -834,7 +834,7 @@
             "category":"Stationery",
             "stock":150,
             "rating":4.6,
-            "image":"utils/stationery/notebook2.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/single%20notebook.jpg"
         },
         {
             "_id":"77",
@@ -845,7 +845,7 @@
             "category":"Stationery",
             "stock":180,
             "rating":4.4,
-            "image":"utils/stationery/marker.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/permanent-marker-pen-black.jpg"
         },
         {
             "_id":"78",
@@ -856,7 +856,7 @@
             "category":"Stationery",
             "stock":200,
             "rating":4.5,
-            "image":"utils/stationery/glue.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/glue.jpg"
         },
         {
             "_id":"79",
@@ -867,7 +867,7 @@
             "category":"Stationery",
             "stock":120,
             "rating":4.3,
-            "image":"utils/stationery/scissors.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/scissors.jpg"
         },
         {
             "_id":"80",
@@ -878,7 +878,7 @@
             "category":"Stationery",
             "stock":100,
             "rating":4.4,
-            "image":"utils/stationery/stapler.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/scissors.jpg"
         },
         {
             "_id":"81",
@@ -889,7 +889,7 @@
             "category":"Fashion",
             "stock":50,
             "rating":4.6,
-            "image":"utils/fashion/jeans.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/jeans.jpg"
         },
         {
             "_id":"82",
@@ -900,7 +900,7 @@
             "category":"Fashion",
             "stock":80,
             "rating":4.5,
-            "image":"utils/fashion/tshirt.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/cap.jpg"
         },
         {
             "_id":"83",
@@ -911,7 +911,7 @@
             "category":"Fashion",
             "stock":40,
             "rating":4.7,
-            "image":"utils/fashion/shoes.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/shoes.jpg"
         },
         {
             "_id":"84",
@@ -922,7 +922,7 @@
             "category":"Fashion",
             "stock":100,
             "rating":4.3,
-            "image":"utils/fashion/socks.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/socks.jpg"
         },
         {
             "_id":"85",
@@ -933,7 +933,7 @@
             "category":"Fashion",
             "stock":30,
             "rating":4.5,
-            "image":"utils/fashion/jacket.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/jacket.jpg"
         },
         {
             "_id":"86",
@@ -944,7 +944,7 @@
             "category":"Accessories",
             "stock":60,
             "rating":4.6,
-            "image":"utils/accessories/watch.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/watch.jpg"
         },
         {
             "_id":"87",
@@ -955,7 +955,7 @@
             "category":"Accessories",
             "stock":40,
             "rating":4.7,
-            "image":"utils/accessories/sunglasses.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/sunglasses.jpg"
         },
         {
             "_id":"88",
@@ -966,7 +966,7 @@
             "category":"Accessories",
             "stock":70,
             "rating":4.5,
-            "image":"utils/accessories/wallet.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/womens-bags.jpg"
         },
         {
             "_id":"89",
@@ -977,7 +977,7 @@
             "category":"Accessories",
             "stock":80,
             "rating":4.4,
-            "image":"utils/accessories/belt.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/belt.jpg"
         },
         {
             "_id":"90",
@@ -988,7 +988,7 @@
             "category":"Accessories",
             "stock":90,
             "rating":4.3,
-            "image":"utils/accessories/cap.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/almonds.jpg"
         },
         {
             "_id":"91",
@@ -999,7 +999,7 @@
             "category":"Electronics",
             "stock":20,
             "rating":4.6,
-            "image":"utils/furniture/table.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/laptop%20table.jpg"
         },
         {
             "_id":"92",
@@ -1010,7 +1010,7 @@
             "category":"Fruits & Vegetables",
             "stock":40,
             "rating":4.5,
-            "image":"utils/furniture/chair.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/red%20grapes.jpg"
         },
         {
             "_id":"93",
@@ -1021,7 +1021,7 @@
             "category":"Fruits & Vegetables",
             "stock":10,
             "rating":4.7,
-            "image":"utils/furniture/bed.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/cauliflower.jpg"
         },
         {
             "_id":"94",
@@ -1032,7 +1032,7 @@
             "category":"Electronics",
             "stock":8,
             "rating":4.6,
-            "image":"utils/furniture/wardrobe.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/projector.jpg"
         },
         {
             "_id":"95",
@@ -1043,7 +1043,7 @@
             "category":"Foodgrains,oil & masala",
             "stock":15,
             "rating":4.5,
-            "image":"utils/furniture/bookshelf.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/aashirvaad%20atta.jpg"
         },
         {
             "_id":"96",
@@ -1054,7 +1054,7 @@
             "category":"Foodgrains,oil & masala",
             "stock":200,
             "rating":4.4,
-            "image":"utils/stationery/notebook3.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/california-pistachios.jpg"
         },
         {
             "_id":"97",
@@ -1065,7 +1065,7 @@
             "category":"Stationery",
             "stock":300,
             "rating":4.3,
-            "image":"utils/stationery/eraser.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/eraser.jpg"
         },
         {
             "_id":"98",
@@ -1076,7 +1076,7 @@
             "category":"Stationery",
             "stock":250,
             "rating":4.4,
-            "image":"utils/stationery/sharpener.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/sharpners.jpg"
         },
         {
             "_id":"99",
@@ -1087,7 +1087,7 @@
             "category":"Stationery",
             "stock":400,
             "rating":4.5,
-            "image":"utils/stationery/pencil.jpg"
+            "image":"https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/pencil.jpg"
         },
         {
             "_id":"100",
@@ -1098,7 +1098,7 @@
             "category":"Stationery",
             "stock":150,
             "rating":4.6,
-            "image":"utils/stationery/sketch.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/sketch%20pens.jpg"
         }
   ] ,
     "wishlist":[],
