@@ -1100,13 +1100,24 @@
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/sketch%20pens.jpg"
         },
-                {
+        {
             "_id":"101",
             "name":"Pure ghee",
             "brand":"Amul",
             "price":297,
             "discountPrice":85,
             "category":"Foodgrains,oil & masala",
+            "stock":150,
+            "rating":4.6,
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/ghee.jpg"
+        },
+        {
+            "_id":"101",
+            "name":"Joint Health",
+            "brand":"Apollo",
+            "price":299,
+            "discountPrice":85,
+            "category":"Beauty & Hygine",
             "stock":150,
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/ghee.jpg"
