@@ -17,10 +17,10 @@
             "brand":"Local Farm",
             "price":60,
             "discountPrice":50,
-            "category":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg",
+            "category":"Fruits & Vegetables",
             "stock":80,
             "rating":4.4,
-            "image":"utils/fruits/banana.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg"
         },
         {
             "_id":"3",
