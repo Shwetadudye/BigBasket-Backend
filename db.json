@@ -1125,5 +1125,11 @@
   ] ,
     "wishlist":[],
     "cart":[],
-    "user":[]
+    "users":[
+        {
+            "id":1,
+            "name": "shweta",
+            "email":"dudyeshweta"
+        }
+    ]
 }
