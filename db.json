@@ -17,7 +17,7 @@
             "brand":"Local Farm",
             "price":60,
             "discountPrice":50,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":80,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg"
@@ -61,7 +61,7 @@
             "brand":"Farm Fresh",
             "price":60,
             "discountPrice":45,
-            "category":"Fruits & Vegetables",
+            "category":"",
             "stock":85,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Tomato.jpg"
@@ -94,7 +94,7 @@
             "brand":"Farm Fresh",
             "price":50,
             "discountPrice":40,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":90,
             "rating":4.2,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Onion.jpg"
@@ -138,7 +138,7 @@
             "brand":"Organic Farm",
             "price":70,
             "discountPrice":60,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":70,
             "rating":4.5,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/carrot.jpg"
@@ -171,7 +171,7 @@
             "brand":"Fresh Farm",
             "price":180,
             "discountPrice":150,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":50,
             "rating":4.5,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/apple.jpg"
@@ -215,7 +215,7 @@
             "brand":"Fresh Farm",
             "price":120,
             "discountPrice":100,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":60,
             "rating":4.3,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/orange.jpg"
@@ -248,7 +248,7 @@
              "brand":"Farm Fresh",  
              "price":40,
              "discountPrice":30,
-             "category":"Fruits & Vegetables",
+             "category":"fruits-vegetables",
              "stock":100,
              "rating":4.3,
              "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/potato.jpg"
@@ -281,7 +281,7 @@
             "brand":"Tropical",
             "price":90,
             "discountPrice":75,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":30,
             "rating":4.2,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/pineapple.jpg"
@@ -336,7 +336,7 @@
             "brand":"Fresh Farm",
             "price":200,
             "discountPrice":180,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":40,
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/strawberry.jpg"
@@ -391,7 +391,7 @@
             "brand":"Farm Fresh",
             "price":50,
             "discountPrice":45,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":60,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/watermelon.jpg"
@@ -446,7 +446,7 @@
             "brand":"Fresh Farm",
             "price":90,
             "discountPrice":80,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":70,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/green%20grapes.jpg"
@@ -501,7 +501,7 @@
              "brand":"Farm Fresh",
              "price":40,
              "discountPrice":35,
-             "category":"Fruits & Vegetables",
+             "category":"fruits-vegetables",
              "stock":80,
              "rating":4.3,
              "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/cucumber.jpg"
@@ -512,7 +512,7 @@
             "brand":"Organic Farm",
             "price":30,
             "discountPrice":25,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":70,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/spinnach.jpg"
@@ -556,7 +556,7 @@
             "brand":"Fresh Farm",
             "price":60,
             "discountPrice":50,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":60,
             "rating":4.3,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/papaya.jpg"
@@ -567,7 +567,7 @@
             "brand":"Ratnagiri",
             "price":300,
             "discountPrice":270,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":40,
             "rating":4.8,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/mango.jpg"
@@ -1007,7 +1007,7 @@
             "brand":"Farm Fresh",
             "price":2000,
             "discountPrice":1700,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":40,
             "rating":4.5,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/red%20grapes.jpg"
@@ -1018,7 +1018,7 @@
             "brand":"Farm Fresh",
             "price":20000,
             "discountPrice":18000,
-            "category":"Fruits & Vegetables",
+            "category":"fruits-vegetables",
             "stock":10,
             "rating":4.7,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/cauliflower.jpg"
@@ -1117,7 +1117,7 @@
             "brand":"Apollo",
             "price":299,
             "discountPrice":85,
-            "category":"Beauty & Hygine",
+            "category":"Beauty-Hygine",
             "stock":150,
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Joint%20Health.jpg"
