@@ -15,6 +15,7 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
     "json-server": "^0.17.2",
     "jsonwebtoken": "^9.0.3"
   }

@@ -1128,10 +1128,5 @@
     "address":[],
     "orders":[],
     "users":[
-        {
-            "id":1,
-            "name": "shweta",
-            "email":"dudyeshweta"
-        }
     ]
 }
