@@ -1124,7 +1124,13 @@
         }
   ] ,
     "wishlist":[],
-    "cart":[],
+    "cart":[{
+  "id": 1,
+  "productId": 5,
+  "name": "Milk",
+  "qty": 2,
+  "userId": 1
+}],
     "address":[],
     "orders":[],
     "users":[
