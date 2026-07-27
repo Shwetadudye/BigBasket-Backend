@@ -1132,7 +1132,7 @@
     "category": "Tea",
     "stock": 95,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=202"
+    "image": "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/red%20Label.jpg"
   },
   {
     "id": 104,
@@ -1143,7 +1143,7 @@
     "category": "Tea",
     "stock": 130,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=203"
+    "image": ""
   },
   {
     "id": 105,
@@ -1154,7 +1154,7 @@
     "category": "Tea",
     "stock": 90,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=204"
+    "image": ""
   },
   {
     "id": 106,
@@ -1165,7 +1165,7 @@
     "category": "Tea",
     "stock": 140,
     "rating": 4.4,
-    "image": "https://picsum.photos/300?random=205"
+    "image": ""
   },
   {
     "id": 107,
@@ -1176,7 +1176,7 @@
     "category": "Tea",
     "stock": 100,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=206"
+    "image": ""
   },
   {
     "id": 108,
@@ -1187,7 +1187,7 @@
     "category": "Tea",
     "stock": 110,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=207"
+    "image": ""
   },
   {
     "id": 109,
@@ -1198,7 +1198,7 @@
     "category": "Tea",
     "stock": 200,
     "rating": 4.3,
-    "image": "https://picsum.photos/300?random=208"
+    "image": ""
   },
   {
     "id": 110,
@@ -1209,7 +1209,7 @@
     "category": "Tea",
     "stock": 80,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=209"
+    "image": ""
   },
   {
     "id": 111,
@@ -1220,7 +1220,7 @@
     "category": "Tea",
     "stock": 60,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=210"
+    "image": ""
   },
   {
     "id": 112,
@@ -1231,7 +1231,7 @@
     "category": "Tea",
     "stock": 70,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=211"
+    "image": ""
   },
   {
     "id": 113,
@@ -1242,7 +1242,7 @@
     "category": "Tea",
     "stock": 100,
     "rating": 4.4,
-    "image": "https://picsum.photos/300?random=212"
+    "image": ""
   },
   {
     "id": 114,
@@ -1253,7 +1253,7 @@
     "category": "Tea",
     "stock": 55,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=213"
+    "image": ""
   },
   {
     "id": 115,
@@ -1264,7 +1264,7 @@
     "category": "Tea",
     "stock": 75,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=214"
+    "image": ""
   },
   {
     "id": 116,
@@ -1275,7 +1275,7 @@
     "category": "Tea",
     "stock": 150,
     "rating": 4.3,
-    "image": "https://picsum.photos/300?random=215"
+    "image": ""
   },
   {
     "id": 117,
@@ -1286,7 +1286,7 @@
     "category": "Tea",
     "stock": 90,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=216"
+    "image": ""
   },
   {
     "id": 118,
@@ -1297,7 +1297,7 @@
     "category": "Tea",
     "stock": 125,
     "rating": 4.4,
-    "image": "https://picsum.photos/300?random=217"
+    "image": ""
   },
   {
     "id": 119,
@@ -1308,7 +1308,7 @@
     "category": "Tea",
     "stock": 110,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=218"
+    "image": ""
   },
   {
     "id": 120,
@@ -1319,7 +1319,7 @@
     "category": "Tea",
     "stock": 60,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=219"
+    "image": ""
   },
   {
     "id": 121,
@@ -1330,7 +1330,7 @@
     "category": "Tea",
     "stock": 50,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=220"
+    "image": ""
   },
   {
     "id": 122,
@@ -1341,7 +1341,7 @@
     "category": "Tea",
     "stock": 180,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=221"
+    "image": ""
   },
   {
     "id": 123,
@@ -1352,7 +1352,7 @@
     "category": "Tea",
     "stock": 95,
     "rating": 4.4,
-    "image": "https://picsum.photos/300?random=222"
+    "image": ""
   },
   {
     "id": 124,
@@ -1363,7 +1363,7 @@
     "category": "Tea",
     "stock": 135,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=223"
+    "image": ""
   },
   {
     "id": 125,
@@ -1374,7 +1374,7 @@
     "category": "Tea",
     "stock": 100,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=224"
+    "image": ""
   },
   {
     "id": 126,
@@ -1385,7 +1385,7 @@
     "category": "Tea",
     "stock": 70,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=225"
+    "image": ""
   },
   {
     "id": 127,
@@ -1396,7 +1396,7 @@
     "category": "Tea",
     "stock": 85,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=226"
+    "image": ""
   },
   {
     "id": 128,
@@ -1407,7 +1407,7 @@
     "category": "Tea",
     "stock": 170,
     "rating": 4.3,
-    "image": "https://picsum.photos/300?random=227"
+    "image": ""
   },
   {
     "id": 129,
@@ -1418,7 +1418,7 @@
     "category": "Tea",
     "stock": 90,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=228"
+    "image": ""
   },
   {
     "id": 130,
@@ -1429,7 +1429,7 @@
     "category": "Tea",
     "stock": 145,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=229"
+    "image": ""
   },
   {
     "id": 131,
@@ -1440,7 +1440,7 @@
     "category": "Tea",
     "stock": 45,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=230"
+    "image": ""
   },
   
   {
@@ -1452,7 +1452,7 @@
     "category": "Tea",
     "stock": 120,
     "rating": 4.4,
-    "image": "https://picsum.photos/300?random=132"
+    "image": ""
   },
   {
     "id": 133,
@@ -1463,7 +1463,7 @@
     "category": "Tea",
     "stock": 95,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=133"
+    "image": ""
   },
   {
     "id": 134,
@@ -1474,7 +1474,7 @@
     "category": "Tea",
     "stock": 150,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=134"
+    "image": ""
   },
   {
     "id": 135,
@@ -1485,7 +1485,7 @@
     "category": "Tea",
     "stock": 100,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=135"
+    "image": ""
   },
   {
     "id": 136,
@@ -1496,7 +1496,7 @@
     "category": "Tea",
     "stock": 90,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=136"
+    "image": ""
   },
   {
     "id": 137,
@@ -1507,7 +1507,7 @@
     "category": "Tea",
     "stock": 130,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=137"
+    "image": ""
   },
   {
     "id": 138,
@@ -1518,7 +1518,7 @@
     "category": "Tea",
     "stock": 180,
     "rating": 4.3,
-    "image": "https://picsum.photos/300?random=138"
+    "image": ""
   },
   {
     "id": 139,
@@ -1529,7 +1529,7 @@
     "category": "Tea",
     "stock": 140,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=139"
+    "image": ""
   },
   {
     "id": 140,
@@ -1540,7 +1540,7 @@
     "category": "Tea",
     "stock": 80,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=140"
+    "image": ""
   },
   {
     "id": 141,
@@ -1551,7 +1551,7 @@
     "category": "Tea",
     "stock": 120,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=141"
+    "image": ""
   },
   {
     "id": 142,
@@ -1562,7 +1562,7 @@
     "category": "Tea",
     "stock": 110,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=142"
+    "image": ""
   },
   {
     "id": 143,
@@ -1573,7 +1573,7 @@
     "category": "Tea",
     "stock": 60,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=143"
+    "image": ""
   },
   {
     "id": 144,
@@ -1584,7 +1584,7 @@
     "category": "Tea",
     "stock": 75,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=144"
+    "image": ""
   },
   {
     "id": 145,
@@ -1595,7 +1595,7 @@
     "category": "Tea",
     "stock": 55,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=145"
+    "image": ""
   },
   {
     "id": 146,
@@ -1606,7 +1606,7 @@
     "category": "Tea",
     "stock": 70,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=146"
+    "image": ""
   },
   {
     "id": 147,
@@ -1617,7 +1617,7 @@
     "category": "Tea",
     "stock": 135,
     "rating": 4.4,
-    "image": "https://picsum.photos/300?random=147"
+    "image": ""
   },
   {
     "id": 148,
@@ -1628,7 +1628,7 @@
     "category": "Tea",
     "stock": 95,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=148"
+    "image": ""
   },
   {
     "id": 149,
@@ -1639,7 +1639,7 @@
     "category": "Tea",
     "stock": 50,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=149"
+    "image": ""
   },
   {
     "id": 150,
@@ -1650,7 +1650,7 @@
     "category": "Tea",
     "stock": 170,
     "rating": 4.3,
-    "image": "https://picsum.photos/300?random=150"
+    "image": ""
   },
   {
     "id": 151,
@@ -1661,7 +1661,7 @@
     "category": "Tea",
     "stock": 85,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=151"
+    "image": ""
   },
     {
     "id": 152,
@@ -1672,7 +1672,7 @@
     "category": "Ghee",
     "stock": 120,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=152"
+    "image": ""
   },
   {
     "id": 153,
@@ -1683,7 +1683,7 @@
     "category": "Ghee",
     "stock": 100,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=153"
+    "image": ""
   },
   {
     "id": 154,
@@ -1694,7 +1694,7 @@
     "category": "Ghee",
     "stock": 80,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=154"
+    "image": ""
   },
   {
     "id": 155,
@@ -1705,7 +1705,7 @@
     "category": "Ghee",
     "stock": 90,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=155"
+    "image": ""
   },
   {
     "id": 156,
@@ -1716,7 +1716,7 @@
     "category": "Ghee",
     "stock": 60,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=156"
+    "image": ""
   },
   {
     "id": 157,
@@ -1727,7 +1727,7 @@
     "category": "Ghee",
     "stock": 75,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=157"
+    "image": ""
   },
   {
     "id": 158,
@@ -1738,7 +1738,7 @@
     "category": "Ghee",
     "stock": 95,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=158"
+    "image": ""
   },
   {
     "id": 159,
@@ -1749,7 +1749,7 @@
     "category": "Ghee",
     "stock": 110,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=159"
+    "image": ""
   },
   {
     "id": 160,
@@ -1760,7 +1760,7 @@
     "category": "Ghee",
     "stock": 70,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=160"
+    "image": ""
   },
   {
     "id": 161,
@@ -1771,7 +1771,7 @@
     "category": "Ghee",
     "stock": 85,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=161"
+    "image": ""
   },
   {
     "id": 162,
@@ -1782,7 +1782,7 @@
     "category": "Ghee",
     "stock": 65,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=162"
+    "image": ""
   },
   {
     "id": 163,
@@ -1793,7 +1793,7 @@
     "category": "Ghee",
     "stock": 50,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=163"
+    "image": ""
   },
   {
     "id": 164,
@@ -1804,7 +1804,7 @@
     "category": "Ghee",
     "stock": 90,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=164"
+    "image": ""
   },
   {
     "id": 165,
@@ -1815,7 +1815,7 @@
     "category": "Ghee",
     "stock": 100,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=165"
+    "image": ""
   },
   {
     "id": 166,
@@ -1826,7 +1826,7 @@
     "category": "Ghee",
     "stock": 75,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=166"
+    "image": ""
   },
   {
     "id": 167,
@@ -1837,7 +1837,7 @@
     "category": "Ghee",
     "stock": 55,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=167"
+    "image": ""
   },
   {
     "id": 168,
@@ -1848,7 +1848,7 @@
     "category": "Ghee",
     "stock": 95,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=168"
+    "image": ""
   },
   {
     "id": 169,
@@ -1859,7 +1859,7 @@
     "category": "Ghee",
     "stock": 70,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=169"
+    "image": ""
   },
   {
     "id": 170,
@@ -1870,7 +1870,7 @@
     "category": "Ghee",
     "stock": 45,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=170"
+    "image": ""
   },
   {
     "id": 171,
@@ -1881,7 +1881,7 @@
     "category": "Ghee",
     "stock": 40,
     "rating": 5.0,
-    "image": "https://picsum.photos/300?random=171"
+    "image": ""
   },
 
   {
@@ -1893,7 +1893,7 @@
     "category": "Ghee",
     "stock": 85,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=172"
+    "image": ""
   },
   {
     "id": 173,
@@ -1904,7 +1904,7 @@
     "category": "Ghee",
     "stock": 45,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=173"
+    "image": ""
   },
   {
     "id": 174,
@@ -1915,7 +1915,7 @@
     "category": "Ghee",
     "stock": 70,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=174"
+    "image": ""
   },
   {
     "id": 175,
@@ -1926,7 +1926,7 @@
     "category": "Ghee",
     "stock": 90,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=175"
+    "image": ""
   },
   {
     "id": 176,
@@ -1937,7 +1937,7 @@
     "category": "Ghee",
     "stock": 55,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=176"
+    "image": ""
   },
   {
     "id": 177,
@@ -1948,7 +1948,7 @@
     "category": "Ghee",
     "stock": 100,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=177"
+    "image": ""
   },
   {
     "id": 178,
@@ -1959,7 +1959,7 @@
     "category": "Ghee",
     "stock": 120,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=178"
+    "image": ""
   },
   {
     "id": 179,
@@ -1970,7 +1970,7 @@
     "category": "Ghee",
     "stock": 65,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=179"
+    "image": ""
   },
   {
     "id": 180,
@@ -1981,7 +1981,7 @@
     "category": "Ghee",
     "stock": 95,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=180"
+    "image": ""
   },
   {
     "id": 181,
@@ -1992,7 +1992,7 @@
     "category": "Ghee",
     "stock": 80,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=181"
+    "image": ""
   },
   {
     "id": 182,
@@ -2003,7 +2003,7 @@
     "category": "Ghee",
     "stock": 50,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=182"
+    "image": ""
   },
   {
     "id": 183,
@@ -2014,7 +2014,7 @@
     "category": "Ghee",
     "stock": 105,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=183"
+    "image": ""
   },
   {
     "id": 184,
@@ -2025,7 +2025,7 @@
     "category": "Ghee",
     "stock": 40,
     "rating": 5.0,
-    "image": "https://picsum.photos/300?random=184"
+    "image": ""
   },
   {
     "id": 185,
@@ -2036,7 +2036,7 @@
     "category": "Ghee",
     "stock": 110,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=185"
+    "image": ""
   },
   {
     "id": 186,
@@ -2047,7 +2047,7 @@
     "category": "Ghee",
     "stock": 75,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=186"
+    "image": ""
   },
   {
     "id": 187,
@@ -2058,7 +2058,7 @@
     "category": "Ghee",
     "stock": 60,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=187"
+    "image": ""
   },
   {
     "id": 188,
@@ -2069,7 +2069,7 @@
     "category": "Ghee",
     "stock": 45,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=188"
+    "image": ""
   },
   {
     "id": 189,
@@ -2080,7 +2080,7 @@
     "category": "Ghee",
     "stock": 50,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=189"
+    "image": ""
   },
   {
     "id": 190,
@@ -2091,7 +2091,7 @@
     "category": "Ghee",
     "stock": 70,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=190"
+    "image": ""
   },
   {
     "id": 191,
@@ -2102,7 +2102,7 @@
     "category": "Ghee",
     "stock": 100,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=191"
+    "image": ""
   },
     {
     "id": 192,
@@ -2113,7 +2113,7 @@
     "category": "Milk",
     "stock": 250,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=192"
+    "image": ""
   },
   {
     "id": 193,
@@ -2124,7 +2124,7 @@
     "category": "Milk",
     "stock": 220,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=193"
+    "image": ""
   },
   {
     "id": 194,
@@ -2135,7 +2135,7 @@
     "category": "Milk",
     "stock": 210,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=194"
+    "image": ""
   },
   {
     "id": 195,
@@ -2146,7 +2146,7 @@
     "category": "Milk",
     "stock": 180,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=195"
+    "image": ""
   },
   {
     "id": 196,
@@ -2157,7 +2157,7 @@
     "category": "Milk",
     "stock": 160,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=196"
+    "image": ""
   },
   {
     "id": 197,
@@ -2168,7 +2168,7 @@
     "category": "Milk",
     "stock": 140,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=197"
+    "image": ""
   },
   {
     "id": 198,
@@ -2179,7 +2179,7 @@
     "category": "Milk",
     "stock": 120,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=198"
+    "image": ""
   },
   {
     "id": 199,
@@ -2190,7 +2190,7 @@
     "category": "Milk",
     "stock": 170,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=199"
+    "image": ""
   },
   {
     "id": 200,
@@ -2201,7 +2201,7 @@
     "category": "Milk",
     "stock": 190,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=200"
+    "image": ""
   },
   {
     "id": 201,
@@ -2212,7 +2212,7 @@
     "category": "Milk",
     "stock": 150,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=201"
+    "image": ""
   },
   {
     "id": 202,
@@ -2223,7 +2223,7 @@
     "category": "Milk",
     "stock": 100,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=202"
+    "image": ""
   },
   {
     "id": 203,
@@ -2234,7 +2234,7 @@
     "category": "Milk",
     "stock": 90,
     "rating": 5.0,
-    "image": "https://picsum.photos/300?random=203"
+    "image": ""
   },
   {
     "id": 204,
@@ -2245,7 +2245,7 @@
     "category": "Milk",
     "stock": 200,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=204"
+    "image": ""
   },
   {
     "id": 205,
@@ -2256,7 +2256,7 @@
     "category": "Milk",
     "stock": 180,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=205"
+    "image": ""
   },
   {
     "id": 206,
@@ -2267,7 +2267,7 @@
     "category": "Milk",
     "stock": 170,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=206"
+    "image": ""
   },
   {
     "id": 207,
@@ -2278,7 +2278,7 @@
     "category": "Milk",
     "stock": 130,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=207"
+    "image": ""
   },
   {
     "id": 208,
@@ -2289,7 +2289,7 @@
     "category": "Milk",
     "stock": 110,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=208"
+    "image": ""
   },
   {
     "id": 209,
@@ -2300,7 +2300,7 @@
     "category": "Milk",
     "stock": 190,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=209"
+    "image": ""
   },
   {
     "id": 210,
@@ -2311,7 +2311,7 @@
     "category": "Milk",
     "stock": 175,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=210"
+    "image": ""
   },
   {
     "id": 211,
@@ -2322,7 +2322,7 @@
     "category": "Milk",
     "stock": 160,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=211"
+    "image": ""
   },
    {
     "id": 212,
@@ -2333,7 +2333,7 @@
     "category": "Milk",
     "stock": 180,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=212"
+    "image": ""
   },
   {
     "id": 213,
@@ -2344,7 +2344,7 @@
     "category": "Milk",
     "stock": 200,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=213"
+    "image": ""
   },
   {
     "id": 214,
@@ -2355,7 +2355,7 @@
     "category": "Milk",
     "stock": 220,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=214"
+    "image": ""
   },
   {
     "id": 215,
@@ -2366,7 +2366,7 @@
     "category": "Milk",
     "stock": 120,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=215"
+    "image": ""
   },
   {
     "id": 216,
@@ -2377,7 +2377,7 @@
     "category": "Milk",
     "stock": 140,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=216"
+    "image": ""
   },
   {
     "id": 217,
@@ -2388,7 +2388,7 @@
     "category": "Milk",
     "stock": 160,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=217"
+    "image": ""
   },
   {
     "id": 218,
@@ -2399,7 +2399,7 @@
     "category": "Milk",
     "stock": 170,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=218"
+    "image": ""
   },
   {
     "id": 219,
@@ -2410,7 +2410,7 @@
     "category": "Milk",
     "stock": 180,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=219"
+    "image": ""
   },
   {
     "id": 220,
@@ -2421,7 +2421,7 @@
     "category": "Milk",
     "stock": 155,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=220"
+    "image": ""
   },
   {
     "id": 221,
@@ -2432,7 +2432,7 @@
     "category": "Milk",
     "stock": 90,
     "rating": 5.0,
-    "image": "https://picsum.photos/300?random=221"
+    "image": ""
   },
   {
     "id": 222,
@@ -2443,7 +2443,7 @@
     "category": "Milk",
     "stock": 210,
     "rating": 4.5,
-    "image": "https://picsum.photos/300?random=222"
+    "image": ""
   },
   {
     "id": 223,
@@ -2454,7 +2454,7 @@
     "category": "Milk",
     "stock": 175,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=223"
+    "image": ""
   },
   {
     "id": 224,
@@ -2465,7 +2465,7 @@
     "category": "Milk",
     "stock": 100,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=224"
+    "image": ""
   },
   {
     "id": 225,
@@ -2476,7 +2476,7 @@
     "category": "Milk",
     "stock": 165,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=225"
+    "image": ""
   },
   {
     "id": 226,
@@ -2487,7 +2487,7 @@
     "category": "Milk",
     "stock": 150,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=226"
+    "image": ""
   },
   {
     "id": 227,
@@ -2498,7 +2498,7 @@
     "category": "Milk",
     "stock": 115,
     "rating": 4.9,
-    "image": "https://picsum.photos/300?random=227"
+    "image": ""
   },
   {
     "id": 228,
@@ -2509,7 +2509,7 @@
     "category": "Milk",
     "stock": 140,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=228"
+    "image": ""
   },
   {
     "id": 229,
@@ -2520,7 +2520,7 @@
     "category": "Milk",
     "stock": 185,
     "rating": 4.6,
-    "image": "https://picsum.photos/300?random=229"
+    "image": ""
   },
   {
     "id": 230,
@@ -2531,7 +2531,7 @@
     "category": "Milk",
     "stock": 145,
     "rating": 4.7,
-    "image": "https://picsum.photos/300?random=230"
+    "image": ""
   },
   {
     "id": 231,
@@ -2542,7 +2542,7 @@
     "category": "Milk",
     "stock": 170,
     "rating": 4.8,
-    "image": "https://picsum.photos/300?random=231"
+    "image": ""
   }
   ] ,
     "wishlist":[],
