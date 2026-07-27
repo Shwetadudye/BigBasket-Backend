@@ -1122,19 +1122,8 @@
             "stock":150,
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Joint%20Health.jpg"
-        },
+        },  
         {
-    "id": 102,
-    "name": "Premium Assam Tea",
-    "brand": "Tata Tea",
-    "price": 320,
-    "discountPrice": 279,
-    "category": "Tea",
-    "stock": 120,
-    "rating": 4.6,
-    "image": "https://picsum.photos/300?random=201"
-  },
-  {
     "id": 103,
     "name": "Gold Tea",
     "brand": "Brooke Bond",
