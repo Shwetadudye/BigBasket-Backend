@@ -62,7 +62,7 @@
             "brand":"Farm Fresh",
             "price":60,
             "discountPrice":45,
-            "category":"",
+            "category":"fruits-vegetables",
             "stock":85,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Tomato.jpg"
@@ -1118,7 +1118,7 @@
             "brand":"Apollo",
             "price":299,
             "discountPrice":85,
-            "category":"Beauty-Hygine",
+            "category":"Beauty  & Hygiene",
             "stock":150,
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Joint%20Health.jpg"
@@ -3870,7 +3870,7 @@
     "brand": "Crocin",
     "price": 35,
     "discountPrice": 30,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 250,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=352"
@@ -3881,7 +3881,7 @@
     "brand": "Limcee",
     "price": 120,
     "discountPrice": 99,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 180,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=353"
@@ -3892,7 +3892,7 @@
     "brand": "Revital",
     "price": 399,
     "discountPrice": 349,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=354"
@@ -3903,7 +3903,7 @@
     "brand": "Dettol",
     "price": 99,
     "discountPrice": 79,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 300,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=355"
@@ -3914,7 +3914,7 @@
     "brand": "Dr. Trust",
     "price": 299,
     "discountPrice": 249,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=356"
@@ -3925,7 +3925,7 @@
     "brand": "3M",
     "price": 199,
     "discountPrice": 159,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 220,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=357"
@@ -3936,7 +3936,7 @@
     "brand": "MuscleBlaze",
     "price": 1999,
     "discountPrice": 1699,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 70,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=358"
@@ -3947,7 +3947,7 @@
     "brand": "HealthKart",
     "price": 699,
     "discountPrice": 599,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=359"
@@ -3958,7 +3958,7 @@
     "brand": "Shelcal",
     "price": 249,
     "discountPrice": 199,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 130,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=360"
@@ -3969,7 +3969,7 @@
     "brand": "Omron",
     "price": 2299,
     "discountPrice": 1999,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 40,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=361"
@@ -3980,7 +3980,7 @@
     "brand": "Moov",
     "price": 180,
     "discountPrice": 149,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=362"
@@ -3991,7 +3991,7 @@
     "brand": "Volini",
     "price": 210,
     "discountPrice": 175,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=363"
@@ -4002,7 +4002,7 @@
     "brand": "Electral",
     "price": 35,
     "discountPrice": 30,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 250,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=364"
@@ -4013,7 +4013,7 @@
     "brand": "Digene",
     "price": 95,
     "discountPrice": 79,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 180,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=365"
@@ -4024,7 +4024,7 @@
     "brand": "Dettol",
     "price": 165,
     "discountPrice": 139,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 170,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=366"
@@ -4035,7 +4035,7 @@
     "brand": "Band-Aid",
     "price": 99,
     "discountPrice": 79,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 220,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=367"
@@ -4046,7 +4046,7 @@
     "brand": "Savlon",
     "price": 60,
     "discountPrice": 49,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 250,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=368"
@@ -4057,7 +4057,7 @@
     "brand": "Glucon-D",
     "price": 180,
     "discountPrice": 149,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=369"
@@ -4068,7 +4068,7 @@
     "brand": "Optimum Nutrition",
     "price": 3499,
     "discountPrice": 2999,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 50,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=370"
@@ -4079,7 +4079,7 @@
     "brand": "Himalaya",
     "price": 299,
     "discountPrice": 249,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=371"
@@ -4090,7 +4090,7 @@
     "brand": "Patanjali",
     "price": 180,
     "discountPrice": 149,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 130,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=372"
@@ -4101,7 +4101,7 @@
     "brand": "3M",
     "price": 149,
     "discountPrice": 119,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 100,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=373"
@@ -4112,7 +4112,7 @@
     "brand": "Dr. Trust",
     "price": 1299,
     "discountPrice": 1099,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 60,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=374"
@@ -4123,7 +4123,7 @@
     "brand": "Uprise-D3",
     "price": 350,
     "discountPrice": 299,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 110,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=375"
@@ -4134,7 +4134,7 @@
     "brand": "Dabur",
     "price": 280,
     "discountPrice": 229,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=376"
@@ -4145,7 +4145,7 @@
     "brand": "Patanjali",
     "price": 220,
     "discountPrice": 189,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 100,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=377"
@@ -4156,7 +4156,7 @@
     "brand": "Himalaya",
     "price": 145,
     "discountPrice": 119,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 140,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=378"
@@ -4167,7 +4167,7 @@
     "brand": "Apollo",
     "price": 349,
     "discountPrice": 299,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=379"
@@ -4178,7 +4178,7 @@
     "brand": "Refresh",
     "price": 199,
     "discountPrice": 169,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 110,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=380"
@@ -4189,7 +4189,7 @@
     "brand": "Dr. Morepen",
     "price": 699,
     "discountPrice": 599,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 80,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=381"
@@ -4200,7 +4200,7 @@
     "brand": "HealthKart",
     "price": 399,
     "discountPrice": 329,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 120,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=382"
@@ -4211,7 +4211,7 @@
     "brand": "Cipla",
     "price": 249,
     "discountPrice": 199,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 140,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=383"
@@ -4222,7 +4222,7 @@
     "brand": "Himalaya",
     "price": 299,
     "discountPrice": 249,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=384"
@@ -4233,7 +4233,7 @@
     "brand": "Evion",
     "price": 220,
     "discountPrice": 179,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 125,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=385"
@@ -4244,7 +4244,7 @@
     "brand": "Dabur",
     "price": 399,
     "discountPrice": 329,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=386"
@@ -4255,7 +4255,7 @@
     "brand": "Patanjali",
     "price": 199,
     "discountPrice": 159,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 120,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=387"
@@ -4266,7 +4266,7 @@
     "brand": "Dabur",
     "price": 149,
     "discountPrice": 119,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 150,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=388"
@@ -4277,7 +4277,7 @@
     "brand": "RiteBite",
     "price": 75,
     "discountPrice": 60,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 220,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=389"
@@ -4288,7 +4288,7 @@
     "brand": "Enerzal",
     "price": 85,
     "discountPrice": 69,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 180,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=390"
@@ -4299,7 +4299,7 @@
     "brand": "HealthSense",
     "price": 1499,
     "discountPrice": 1249,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 70,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=391"
@@ -4310,7 +4310,7 @@
     "brand": "Flamingo",
     "price": 399,
     "discountPrice": 329,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 110,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=392"
@@ -4321,7 +4321,7 @@
     "brand": "Tynor",
     "price": 699,
     "discountPrice": 599,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 85,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=393"
@@ -4332,7 +4332,7 @@
     "brand": "Tynor",
     "price": 599,
     "discountPrice": 499,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=394"
@@ -4343,7 +4343,7 @@
     "brand": "Flamingo",
     "price": 180,
     "discountPrice": 149,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 170,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=395"
@@ -4354,7 +4354,7 @@
     "brand": "Apollo",
     "price": 799,
     "discountPrice": 649,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 60,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=396"
@@ -4365,7 +4365,7 @@
     "brand": "SafeTouch",
     "price": 249,
     "discountPrice": 199,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 200,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=397"
@@ -4376,7 +4376,7 @@
     "brand": "Dr. Trust",
     "price": 1799,
     "discountPrice": 1499,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 55,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=398"
@@ -4387,7 +4387,7 @@
     "brand": "Vicks",
     "price": 999,
     "discountPrice": 849,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 70,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=399"
@@ -4398,7 +4398,7 @@
     "brand": "Organic India",
     "price": 299,
     "discountPrice": 249,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 130,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=400"
@@ -4409,7 +4409,7 @@
     "brand": "Kapiva",
     "price": 499,
     "discountPrice": 429,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=401"
@@ -4420,7 +4420,7 @@
     "brand": "Carbamide Forte",
     "price": 599,
     "discountPrice": 499,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 80,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=402"
@@ -4431,7 +4431,7 @@
     "brand": "TrueBasics",
     "price": 899,
     "discountPrice": 749,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 75,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=403"
@@ -4442,7 +4442,7 @@
     "brand": "Boldfit",
     "price": 699,
     "discountPrice": 579,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 70,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=404"
@@ -4453,7 +4453,7 @@
     "brand": "Power Gummies",
     "price": 799,
     "discountPrice": 679,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=405"
@@ -4464,7 +4464,7 @@
     "brand": "Yoga Bar",
     "price": 120,
     "discountPrice": 99,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 180,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=406"
@@ -4475,7 +4475,7 @@
     "brand": "Tetley",
     "price": 275,
     "discountPrice": 229,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=407"
@@ -4486,7 +4486,7 @@
     "brand": "Himalaya",
     "price": 249,
     "discountPrice": 199,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 110,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=408"
@@ -4497,7 +4497,7 @@
     "brand": "Moov",
     "price": 199,
     "discountPrice": 159,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 130,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=409"
@@ -4508,7 +4508,7 @@
     "brand": "Boldfit",
     "price": 999,
     "discountPrice": 799,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 85,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=410"
@@ -4519,7 +4519,7 @@
     "brand": "Boldfit",
     "price": 799,
     "discountPrice": 649,
-    "category": "Pharmacy & Wellness",
+    "category": "Pharmacy",
     "stock": 95,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=411"
@@ -4530,7 +4530,7 @@
     "brand": "India Gate",
     "price": 799,
     "discountPrice": 699,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=412"
@@ -4541,7 +4541,7 @@
     "brand": "Fortune",
     "price": 549,
     "discountPrice": 479,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 100,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=413"
@@ -4552,7 +4552,7 @@
     "brand": "Tata Sampann",
     "price": 199,
     "discountPrice": 169,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=414"
@@ -4563,7 +4563,7 @@
     "brand": "24 Mantra",
     "price": 189,
     "discountPrice": 159,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=415"
@@ -4574,7 +4574,7 @@
     "brand": "Fortune",
     "price": 139,
     "discountPrice": 119,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 170,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=416"
@@ -4585,7 +4585,7 @@
     "brand": "Organic Tattva",
     "price": 169,
     "discountPrice": 145,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=417"
@@ -4596,7 +4596,7 @@
     "brand": "Tata Sampann",
     "price": 189,
     "discountPrice": 165,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 130,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=418"
@@ -4607,7 +4607,7 @@
     "brand": "BB Royal",
     "price": 199,
     "discountPrice": 175,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 110,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=419"
@@ -4618,7 +4618,7 @@
     "brand": "BB Royal",
     "price": 210,
     "discountPrice": 185,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 100,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=420"
@@ -4629,7 +4629,7 @@
     "brand": "24 Mantra",
     "price": 165,
     "discountPrice": 145,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=421"
@@ -4640,7 +4640,7 @@
     "brand": "Aashirvaad",
     "price": 329,
     "discountPrice": 289,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 200,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=422"
@@ -4651,7 +4651,7 @@
     "brand": "Pillsbury",
     "price": 389,
     "discountPrice": 339,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=423"
@@ -4662,7 +4662,7 @@
     "brand": "Fortune",
     "price": 129,
     "discountPrice": 109,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=424"
@@ -4673,7 +4673,7 @@
     "brand": "Aashirvaad",
     "price": 69,
     "discountPrice": 55,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=425"
@@ -4684,7 +4684,7 @@
     "brand": "BB Royal",
     "price": 75,
     "discountPrice": 60,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 150,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=426"
@@ -4695,7 +4695,7 @@
     "brand": "24 Mantra",
     "price": 95,
     "discountPrice": 79,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=427"
@@ -4706,7 +4706,7 @@
     "brand": "Fortune",
     "price": 220,
     "discountPrice": 199,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 100,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=428"
@@ -4717,7 +4717,7 @@
     "brand": "Saffola",
     "price": 210,
     "discountPrice": 189,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=429"
@@ -4728,7 +4728,7 @@
     "brand": "Fortune",
     "price": 235,
     "discountPrice": 210,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 100,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=430"
@@ -4739,7 +4739,7 @@
     "brand": "Fortune",
     "price": 199,
     "discountPrice": 175,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 110,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=431"
@@ -4750,7 +4750,7 @@
     "brand": "Everest",
     "price": 85,
     "discountPrice": 69,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=432"
@@ -4761,7 +4761,7 @@
     "brand": "MDH",
     "price": 95,
     "discountPrice": 79,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 170,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=433"
@@ -4772,7 +4772,7 @@
     "brand": "Everest",
     "price": 75,
     "discountPrice": 59,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 190,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=434"
@@ -4783,7 +4783,7 @@
     "brand": "Catch",
     "price": 110,
     "discountPrice": 89,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=435"
@@ -4794,7 +4794,7 @@
     "brand": "MDH",
     "price": 99,
     "discountPrice": 79,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 160,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=436"
@@ -4805,7 +4805,7 @@
     "brand": "Everest",
     "price": 89,
     "discountPrice": 69,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 170,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=437"
@@ -4816,7 +4816,7 @@
     "brand": "Everest",
     "price": 85,
     "discountPrice": 65,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 160,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=438"
@@ -4827,7 +4827,7 @@
     "brand": "Catch",
     "price": 79,
     "discountPrice": 59,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=439"
@@ -4838,7 +4838,7 @@
     "brand": "Organic India",
     "price": 149,
     "discountPrice": 119,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=440"
@@ -4849,7 +4849,7 @@
     "brand": "BB Royal",
     "price": 139,
     "discountPrice": 115,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=441"
@@ -4860,7 +4860,7 @@
     "brand": "BB Royal",
     "price": 65,
     "discountPrice": 52,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 170,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=442"
@@ -4871,7 +4871,7 @@
     "brand": "24 Mantra",
     "price": 59,
     "discountPrice": 45,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=443"
@@ -4882,7 +4882,7 @@
     "brand": "BB Royal",
     "price": 99,
     "discountPrice": 79,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=444"
@@ -4893,7 +4893,7 @@
     "brand": "BB Royal",
     "price": 89,
     "discountPrice": 69,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 160,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=445"
@@ -4904,7 +4904,7 @@
     "brand": "Catch",
     "price": 399,
     "discountPrice": 349,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 70,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=446"
@@ -4915,7 +4915,7 @@
     "brand": "Everest",
     "price": 299,
     "discountPrice": 249,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 80,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=447"
@@ -4926,7 +4926,7 @@
     "brand": "Catch",
     "price": 189,
     "discountPrice": 159,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 100,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=448"
@@ -4937,7 +4937,7 @@
     "brand": "BB Royal",
     "price": 59,
     "discountPrice": 45,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 150,
     "rating": 4.5,
     "image": "https://picsum.photos/300?random=449"
@@ -4948,7 +4948,7 @@
     "brand": "Tata",
     "price": 45,
     "discountPrice": 35,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=450"
@@ -4959,7 +4959,7 @@
     "brand": "Tata",
     "price": 75,
     "discountPrice": 59,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 170,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=451"
@@ -4970,7 +4970,7 @@
     "brand": "BB Royal",
     "price": 95,
     "discountPrice": 75,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=452"
@@ -4981,7 +4981,7 @@
     "brand": "24 Mantra",
     "price": 110,
     "discountPrice": 89,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=453"
@@ -4992,7 +4992,7 @@
     "brand": "Everest",
     "price": 55,
     "discountPrice": 45,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=454"
@@ -5003,7 +5003,7 @@
     "brand": "BB Royal",
     "price": 95,
     "discountPrice": 75,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 130,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=455"
@@ -5014,7 +5014,7 @@
     "brand": "24 Mantra",
     "price": 120,
     "discountPrice": 99,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 120,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=456"
@@ -5025,7 +5025,7 @@
     "brand": "Catch",
     "price": 159,
     "discountPrice": 129,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=457"
@@ -5036,7 +5036,7 @@
     "brand": "MDH",
     "price": 99,
     "discountPrice": 79,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 170,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=458"
@@ -5047,7 +5047,7 @@
     "brand": "Everest",
     "price": 105,
     "discountPrice": 85,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=459"
@@ -5058,7 +5058,7 @@
     "brand": "Catch",
     "price": 89,
     "discountPrice": 69,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=460"
@@ -5069,7 +5069,7 @@
     "brand": "MTR",
     "price": 120,
     "discountPrice": 99,
-    "category": "Foodgrains, Oil & Masala",
+    "category": "Foodgrains",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=461"
@@ -6396,11 +6396,11 @@
   },
    {
     "id": 582,
-    "name": "Dove Beauty Soap 100g",
+    "name": "Dove Beauty  & Hygiene Soap 100g",
     "brand": "Dove",
     "price": 65,
     "discountPrice": 55,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=582"
@@ -6411,7 +6411,7 @@
     "brand": "Lux",
     "price": 45,
     "discountPrice": 38,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene",
     "stock": 200,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=583"
@@ -6422,7 +6422,7 @@
     "brand": "Pears",
     "price": 70,
     "discountPrice": 60,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 160,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=584"
@@ -6444,7 +6444,7 @@
     "brand": "Santoor",
     "price": 40,
     "discountPrice": 34,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene",
     "stock": 210,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=586"
@@ -6455,7 +6455,7 @@
     "brand": "Nivea",
     "price": 325,
     "discountPrice": 289,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene",
     "stock": 140,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=587"
@@ -6477,7 +6477,7 @@
     "brand": "Pond's",
     "price": 180,
     "discountPrice": 155,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene",
     "stock": 170,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=589"
@@ -6499,7 +6499,7 @@
     "brand": "Himalaya",
     "price": 165,
     "discountPrice": 145,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 190,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=591"
@@ -6510,7 +6510,7 @@
     "brand": "Garnier",
     "price": 199,
     "discountPrice": 175,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=592"
@@ -6521,7 +6521,7 @@
     "brand": "Clean & Clear",
     "price": 140,
     "discountPrice": 120,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 170,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=593"
@@ -6532,7 +6532,7 @@
     "brand": "Mamaearth",
     "price": 275,
     "discountPrice": 245,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=594"
@@ -6543,7 +6543,7 @@
     "brand": "Dove",
     "price": 325,
     "discountPrice": 289,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=595"
@@ -6554,7 +6554,7 @@
     "brand": "Clinic Plus",
     "price": 210,
     "discountPrice": 185,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 170,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=596"
@@ -6565,7 +6565,7 @@
     "brand": "Head & Shoulders",
     "price": 349,
     "discountPrice": 309,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=597"
@@ -6576,7 +6576,7 @@
     "brand": "Pantene",
     "price": 220,
     "discountPrice": 195,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=598"
@@ -6587,7 +6587,7 @@
     "brand": "Parachute",
     "price": 210,
     "discountPrice": 185,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=599"
@@ -6598,7 +6598,7 @@
     "brand": "Indulekha",
     "price": 399,
     "discountPrice": 359,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 100,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=600"
@@ -6609,7 +6609,7 @@
     "brand": "Colgate",
     "price": 110,
     "discountPrice": 95,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 250,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=601"
@@ -6620,7 +6620,7 @@
     "brand": "Sensodyne",
     "price": 210,
     "discountPrice": 185,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 170,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=602"
@@ -6631,7 +6631,7 @@
     "brand": "Oral-B",
     "price": 120,
     "discountPrice": 105,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=603"
@@ -6642,7 +6642,7 @@
     "brand": "Listerine",
     "price": 240,
     "discountPrice": 215,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 160,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=604"
@@ -6653,7 +6653,7 @@
     "brand": "Nivea",
     "price": 199,
     "discountPrice": 175,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=605"
@@ -6664,7 +6664,7 @@
     "brand": "Fogg",
     "price": 275,
     "discountPrice": 245,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=606"
@@ -6675,7 +6675,7 @@
     "brand": "Yardley",
     "price": 185,
     "discountPrice": 165,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=607"
@@ -6686,7 +6686,7 @@
     "brand": "Gillette",
     "price": 399,
     "discountPrice": 359,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=608"
@@ -6697,7 +6697,7 @@
     "brand": "Gillette",
     "price": 249,
     "discountPrice": 219,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=609"
@@ -6708,7 +6708,7 @@
     "brand": "Veet",
     "price": 199,
     "discountPrice": 175,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 170,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=610"
@@ -6719,7 +6719,7 @@
     "brand": "Stayfree",
     "price": 180,
     "discountPrice": 159,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 200,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=611"
@@ -6730,7 +6730,7 @@
     "brand": "Whisper",
     "price": 225,
     "discountPrice": 199,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=612"
@@ -6741,7 +6741,7 @@
     "brand": "Carefree",
     "price": 149,
     "discountPrice": 129,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 170,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=613"
@@ -6752,7 +6752,7 @@
     "brand": "Dove",
     "price": 345,
     "discountPrice": 309,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=614"
@@ -6763,7 +6763,7 @@
     "brand": "Tresemme",
     "price": 425,
     "discountPrice": 379,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 130,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=615"
@@ -6774,7 +6774,7 @@
     "brand": "Tresemme",
     "price": 399,
     "discountPrice": 359,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=616"
@@ -6785,7 +6785,7 @@
     "brand": "L'Oréal Paris",
     "price": 349,
     "discountPrice": 315,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=617"
@@ -6796,7 +6796,7 @@
     "brand": "L'Oréal Paris",
     "price": 499,
     "discountPrice": 449,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=618"
@@ -6807,7 +6807,7 @@
     "brand": "Livon",
     "price": 299,
     "discountPrice": 265,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=619"
@@ -6818,7 +6818,7 @@
     "brand": "Biotique",
     "price": 220,
     "discountPrice": 195,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=620"
@@ -6829,7 +6829,7 @@
     "brand": "Biotique",
     "price": 260,
     "discountPrice": 229,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=621"
@@ -6840,7 +6840,7 @@
     "brand": "Mamaearth",
     "price": 449,
     "discountPrice": 399,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=622"
@@ -6851,7 +6851,7 @@
     "brand": "Mamaearth",
     "price": 299,
     "discountPrice": 265,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=623"
@@ -6862,7 +6862,7 @@
     "brand": "Cetaphil",
     "price": 399,
     "discountPrice": 359,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=624"
@@ -6873,7 +6873,7 @@
     "brand": "Cetaphil",
     "price": 499,
     "discountPrice": 449,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 110,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=625"
@@ -6884,7 +6884,7 @@
     "brand": "Neutrogena",
     "price": 299,
     "discountPrice": 269,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=626"
@@ -6895,7 +6895,7 @@
     "brand": "Neutrogena",
     "price": 699,
     "discountPrice": 629,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 100,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=627"
@@ -6906,7 +6906,7 @@
     "brand": "Lakme",
     "price": 399,
     "discountPrice": 359,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 130,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=628"
@@ -6917,7 +6917,7 @@
     "brand": "Nivea",
     "price": 199,
     "discountPrice": 175,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=629"
@@ -6928,7 +6928,7 @@
     "brand": "Maybelline",
     "price": 225,
     "discountPrice": 199,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 170,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=630"
@@ -6939,7 +6939,7 @@
     "brand": "Lakme",
     "price": 199,
     "discountPrice": 179,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 190,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=631"
@@ -6950,7 +6950,7 @@
     "brand": "Maybelline",
     "price": 249,
     "discountPrice": 219,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=632"
@@ -6961,7 +6961,7 @@
     "brand": "Lakme",
     "price": 325,
     "discountPrice": 289,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=633"
@@ -6972,7 +6972,7 @@
     "brand": "Maybelline",
     "price": 599,
     "discountPrice": 539,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=634"
@@ -6983,7 +6983,7 @@
     "brand": "Lakme",
     "price": 799,
     "discountPrice": 719,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 100,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=635"
@@ -6994,7 +6994,7 @@
     "brand": "Maybelline",
     "price": 499,
     "discountPrice": 449,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=636"
@@ -7005,7 +7005,7 @@
     "brand": "Lakme",
     "price": 120,
     "discountPrice": 99,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 180,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=637"
@@ -7016,29 +7016,29 @@
     "brand": "Colorbar",
     "price": 199,
     "discountPrice": 175,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=638"
   },
   {
     "id": 639,
-    "name": "Swiss Beauty Makeup Primer",
-    "brand": "Swiss Beauty",
+    "name": "Swiss Beauty  & Hygiene Makeup Primer",
+    "brand": "Swiss Beauty  & Hygiene",
     "price": 349,
     "discountPrice": 309,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=639"
   },
   {
     "id": 640,
-    "name": "Swiss Beauty Makeup Fixer",
-    "brand": "Swiss Beauty",
+    "name": "Swiss Beauty  & Hygiene Makeup Fixer",
+    "brand": "Swiss Beauty  & Hygiene",
     "price": 299,
     "discountPrice": 269,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=640"
@@ -7049,7 +7049,7 @@
     "brand": "The Derma Co",
     "price": 599,
     "discountPrice": 539,
-    "category": "Beauty & Hygiene",
+    "category": "Beauty  & Hygiene ",
     "stock": 120,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=641"
