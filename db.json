@@ -5080,7 +5080,7 @@
     "brand": "Amul",
     "price": 72,
     "discountPrice": 68,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 200,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=462"
@@ -5091,7 +5091,7 @@
     "brand": "Amul",
     "price": 60,
     "discountPrice": 57,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 220,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=463"
@@ -5102,7 +5102,7 @@
     "brand": "Mother Dairy",
     "price": 70,
     "discountPrice": 66,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 190,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=464"
@@ -5113,7 +5113,7 @@
     "brand": "Amul",
     "price": 110,
     "discountPrice": 99,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=465"
@@ -5124,7 +5124,7 @@
     "brand": "Britannia",
     "price": 180,
     "discountPrice": 159,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=466"
@@ -5135,7 +5135,7 @@
     "brand": "Amul",
     "price": 145,
     "discountPrice": 129,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=467"
@@ -5146,7 +5146,7 @@
     "brand": "Amul",
     "price": 285,
     "discountPrice": 259,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 140,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=468"
@@ -5157,7 +5157,7 @@
     "brand": "Mother Dairy",
     "price": 55,
     "discountPrice": 49,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=469"
@@ -5168,7 +5168,7 @@
     "brand": "Epigamia",
     "price": 140,
     "discountPrice": 119,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 110,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=470"
@@ -5179,7 +5179,7 @@
     "brand": "Amul",
     "price": 72,
     "discountPrice": 65,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=471"
@@ -5190,7 +5190,7 @@
     "brand": "Britannia",
     "price": 50,
     "discountPrice": 45,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 200,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=472"
@@ -5201,7 +5201,7 @@
     "brand": "Harvest Gold",
     "price": 55,
     "discountPrice": 49,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=473"
@@ -5212,7 +5212,7 @@
     "brand": "Britannia",
     "price": 45,
     "discountPrice": 39,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 170,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=474"
@@ -5223,7 +5223,7 @@
     "brand": "Harvest Gold",
     "price": 55,
     "discountPrice": 49,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=475"
@@ -5234,7 +5234,7 @@
     "brand": "Britannia",
     "price": 85,
     "discountPrice": 75,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=476"
@@ -5245,7 +5245,7 @@
     "brand": "Monginis",
     "price": 120,
     "discountPrice": 99,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=477"
@@ -5256,7 +5256,7 @@
     "brand": "Monginis",
     "price": 110,
     "discountPrice": 95,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 130,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=478"
@@ -5267,7 +5267,7 @@
     "brand": "Monginis",
     "price": 450,
     "discountPrice": 399,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 90,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=479"
@@ -5278,7 +5278,7 @@
     "brand": "Theobroma",
     "price": 699,
     "discountPrice": 629,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 80,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=480"
@@ -5289,7 +5289,7 @@
     "brand": "Theobroma",
     "price": 749,
     "discountPrice": 679,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 70,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=481"
@@ -5300,7 +5300,7 @@
     "brand": "Monginis",
     "price": 499,
     "discountPrice": 439,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=482"
@@ -5311,7 +5311,7 @@
     "brand": "Britannia",
     "price": 180,
     "discountPrice": 159,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 120,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=483"
@@ -5322,7 +5322,7 @@
     "brand": "Theobroma",
     "price": 95,
     "discountPrice": 85,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=484"
@@ -5333,7 +5333,7 @@
     "brand": "Theobroma",
     "price": 115,
     "discountPrice": 99,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 140,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=485"
@@ -5344,7 +5344,7 @@
     "brand": "Mad Over Donuts",
     "price": 75,
     "discountPrice": 65,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=486"
@@ -5355,7 +5355,7 @@
     "brand": "Mad Over Donuts",
     "price": 89,
     "discountPrice": 79,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 170,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=487"
@@ -5366,7 +5366,7 @@
     "brand": "Theobroma",
     "price": 799,
     "discountPrice": 719,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 60,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=488"
@@ -5377,7 +5377,7 @@
     "brand": "Monginis",
     "price": 99,
     "discountPrice": 85,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=489"
@@ -5388,7 +5388,7 @@
     "brand": "Monginis",
     "price": 109,
     "discountPrice": 95,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=490"
@@ -5399,7 +5399,7 @@
     "brand": "Mother Dairy",
     "price": 240,
     "discountPrice": 219,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=491"
@@ -5410,7 +5410,7 @@
     "brand": "Amul",
     "price": 30,
     "discountPrice": 27,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 220,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=492"
@@ -5421,7 +5421,7 @@
     "brand": "Amul",
     "price": 25,
     "discountPrice": 22,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 240,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=493"
@@ -5432,7 +5432,7 @@
     "brand": "Mother Dairy",
     "price": 35,
     "discountPrice": 30,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=494"
@@ -5443,7 +5443,7 @@
     "brand": "Epigamia",
     "price": 55,
     "discountPrice": 49,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=495"
@@ -5454,7 +5454,7 @@
     "brand": "Epigamia",
     "price": 55,
     "discountPrice": 49,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=496"
@@ -5465,7 +5465,7 @@
     "brand": "Britannia",
     "price": 220,
     "discountPrice": 199,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=497"
@@ -5476,7 +5476,7 @@
     "brand": "Amul",
     "price": 320,
     "discountPrice": 289,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 100,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=498"
@@ -5487,7 +5487,7 @@
     "brand": "Amul",
     "price": 125,
     "discountPrice": 109,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=499"
@@ -5498,7 +5498,7 @@
     "brand": "Amul",
     "price": 295,
     "discountPrice": 269,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=500"
@@ -5509,7 +5509,7 @@
     "brand": "Nestle Everyday",
     "price": 340,
     "discountPrice": 309,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=501"
@@ -5520,7 +5520,7 @@
     "brand": "Britannia",
     "price": 45,
     "discountPrice": 39,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 220,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=502"
@@ -5531,7 +5531,7 @@
     "brand": "Harvest Gold",
     "price": 50,
     "discountPrice": 44,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 190,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=503"
@@ -5542,7 +5542,7 @@
     "brand": "Britannia",
     "price": 60,
     "discountPrice": 54,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=504"
@@ -5553,7 +5553,7 @@
     "brand": "Harvest Gold",
     "price": 65,
     "discountPrice": 55,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 160,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=505"
@@ -5564,7 +5564,7 @@
     "brand": "Britannia",
     "price": 70,
     "discountPrice": 62,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 170,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=506"
@@ -5575,7 +5575,7 @@
     "brand": "Monginis",
     "price": 180,
     "discountPrice": 159,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 130,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=507"
@@ -5586,7 +5586,7 @@
     "brand": "Theobroma",
     "price": 299,
     "discountPrice": 269,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 100,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=508"
@@ -5597,7 +5597,7 @@
     "brand": "Theobroma",
     "price": 140,
     "discountPrice": 125,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 150,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=509"
@@ -5608,7 +5608,7 @@
     "brand": "Theobroma",
     "price": 160,
     "discountPrice": 145,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 140,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=510"
@@ -5619,7 +5619,7 @@
     "brand": "Britannia",
     "price": 99,
     "discountPrice": 89,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=511"
@@ -5630,7 +5630,7 @@
     "brand": "Unibic",
     "price": 120,
     "discountPrice": 105,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 170,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=512"
@@ -5641,7 +5641,7 @@
     "brand": "Sunfeast",
     "price": 110,
     "discountPrice": 95,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 150,
     "rating": 4.6,
     "image": "https://picsum.photos/300?random=513"
@@ -5652,7 +5652,7 @@
     "brand": "Monginis",
     "price": 799,
     "discountPrice": 719,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 70,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=514"
@@ -5663,7 +5663,7 @@
     "brand": "Monginis",
     "price": 450,
     "discountPrice": 399,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 90,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=515"
@@ -5674,7 +5674,7 @@
     "brand": "Theobroma",
     "price": 180,
     "discountPrice": 159,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 130,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=516"
@@ -5685,7 +5685,7 @@
     "brand": "Monginis",
     "price": 85,
     "discountPrice": 75,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 180,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=517"
@@ -5696,7 +5696,7 @@
     "brand": "Britannia",
     "price": 180,
     "discountPrice": 159,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 140,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=518"
@@ -5707,7 +5707,7 @@
     "brand": "Monginis",
     "price": 199,
     "discountPrice": 179,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 120,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=519"
@@ -5718,7 +5718,7 @@
     "brand": "Theobroma",
     "price": 130,
     "discountPrice": 115,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 150,
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=520"
@@ -5729,7 +5729,7 @@
     "brand": "Amul",
     "price": 260,
     "discountPrice": 235,
-    "category": "Dairy, Bakery & Cakes",
+    "category": "Bakery",
     "stock": 110,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=521"
@@ -7053,6 +7053,336 @@
     "stock": 120,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=641"
+  },
+   {
+    "id": 642,
+    "name": "Fresh Banana Robusta 1 Dozen",
+    "brand": "Fresh Farm",
+    "price": 75,
+    "discountPrice": 65,
+    "category": "fruits-vegetables",
+    "stock": 250,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=642"
+  },
+  {
+    "id": 643,
+    "name": "Apple Royal Gala 1kg",
+    "brand": "Fresh Farm",
+    "price": 220,
+    "discountPrice": 199,
+    "category": "fruits-vegetables",
+    "stock": 180,
+    "rating": 4.9,
+    "image": "https://picsum.photos/300?random=643"
+  },
+  {
+    "id": 644,
+    "name": "Orange Nagpur 1kg",
+    "brand": "Fresh Farm",
+    "price": 120,
+    "discountPrice": 105,
+    "category": "fruits-vegetables",
+    "stock": 200,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=644"
+  },
+  {
+    "id": 645,
+    "name": "Green Grapes 500g",
+    "brand": "Fresh Farm",
+    "price": 95,
+    "discountPrice": 85,
+    "category": "fruits-vegetables",
+    "stock": 180,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=645"
+  },
+  {
+    "id": 646,
+    "name": "Black Grapes 500g",
+    "brand": "Fresh Farm",
+    "price": 110,
+    "discountPrice": 99,
+    "category": "fruits-vegetables",
+    "stock": 170,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=646"
+  },
+  {
+    "id": 647,
+    "name": "Pomegranate 1kg",
+    "brand": "Fresh Farm",
+    "price": 210,
+    "discountPrice": 189,
+    "category": "fruits-vegetables",
+    "stock": 160,
+    "rating": 4.9,
+    "image": "https://picsum.photos/300?random=647"
+  },
+  {
+    "id": 648,
+    "name": "Watermelon Whole",
+    "brand": "Fresh Farm",
+    "price": 95,
+    "discountPrice": 85,
+    "category": "fruits-vegetables",
+    "stock": 140,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=648"
+  },
+  {
+    "id": 649,
+    "name": "Papaya 1pc",
+    "brand": "Fresh Farm",
+    "price": 65,
+    "discountPrice": 58,
+    "category": "fruits-vegetables",
+    "stock": 170,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=649"
+  },
+  {
+    "id": 650,
+    "name": "Pineapple 1pc",
+    "brand": "Fresh Farm",
+    "price": 90,
+    "discountPrice": 80,
+    "category": "fruits-vegetables",
+    "stock": 130,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=650"
+  },
+  {
+    "id": 651,
+    "name": "Mango Alphonso 1kg",
+    "brand": "Fresh Farm",
+    "price": 350,
+    "discountPrice": 320,
+    "category": "fruits-vegetables",
+    "stock": 120,
+    "rating": 5.0,
+    "image": "https://picsum.photos/300?random=651"
+  },
+  {
+    "id": 652,
+    "name": "Kiwi 3pcs",
+    "brand": "Fresh Farm",
+    "price": 180,
+    "discountPrice": 160,
+    "category": "fruits-vegetables",
+    "stock": 110,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=652"
+  },
+  {
+    "id": 653,
+    "name": "Dragon Fruit 1pc",
+    "brand": "Fresh Farm",
+    "price": 140,
+    "discountPrice": 125,
+    "category": "fruits-vegetables",
+    "stock": 100,
+    "rating": 4.9,
+    "image": "https://picsum.photos/300?random=653"
+  },
+  {
+    "id": 654,
+    "name": "Tomato Hybrid 1kg",
+    "brand": "Fresh Farm",
+    "price": 45,
+    "discountPrice": 39,
+    "category": "fruits-vegetables",
+    "stock": 250,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=654"
+  },
+  {
+    "id": 655,
+    "name": "Potato 2kg",
+    "brand": "Fresh Farm",
+    "price": 70,
+    "discountPrice": 62,
+    "category": "fruits-vegetables",
+    "stock": 280,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=655"
+  },
+  {
+    "id": 656,
+    "name": "Onion 2kg",
+    "brand": "Fresh Farm",
+    "price": 80,
+    "discountPrice": 72,
+    "category": "fruits-vegetables",
+    "stock": 260,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=656"
+  },
+  {
+    "id": 657,
+    "name": "Carrot 500g",
+    "brand": "Fresh Farm",
+    "price": 40,
+    "discountPrice": 35,
+    "category": "fruits-vegetables",
+    "stock": 190,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=657"
+  },
+  {
+    "id": 658,
+    "name": "Cucumber 500g",
+    "brand": "Fresh Farm",
+    "price": 35,
+    "discountPrice": 30,
+    "category": "fruits-vegetables",
+    "stock": 210,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=658"
+  },
+  {
+    "id": 659,
+    "name": "Capsicum Green 500g",
+    "brand": "Fresh Farm",
+    "price": 60,
+    "discountPrice": 54,
+    "category": "fruits-vegetables",
+    "stock": 170,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=659"
+  },
+  {
+    "id": 660,
+    "name": "Cauliflower 1pc",
+    "brand": "Fresh Farm",
+    "price": 55,
+    "discountPrice": 48,
+    "category": "fruits-vegetables",
+    "stock": 160,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=660"
+  },
+  {
+    "id": 661,
+    "name": "Broccoli 250g",
+    "brand": "Fresh Farm",
+    "price": 90,
+    "discountPrice": 80,
+    "category": "fruits-vegetables",
+    "stock": 140,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=661"
+  },
+  {
+    "id": 662,
+    "name": "Spinach 250g",
+    "brand": "Fresh Farm",
+    "price": 30,
+    "discountPrice": 26,
+    "category": "fruits-vegetables",
+    "stock": 220,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=662"
+  },
+  {
+    "id": 663,
+    "name": "Coriander Leaves 100g",
+    "brand": "Fresh Farm",
+    "price": 20,
+    "discountPrice": 18,
+    "category": "fruits-vegetables",
+    "stock": 250,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=663"
+  },
+  {
+    "id": 664,
+    "name": "Mint Leaves 100g",
+    "brand": "Fresh Farm",
+    "price": 20,
+    "discountPrice": 18,
+    "category": "fruits-vegetables",
+    "stock": 240,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=664"
+  },
+  {
+    "id": 665,
+    "name": "Green Peas 500g",
+    "brand": "Fresh Farm",
+    "price": 70,
+    "discountPrice": 62,
+    "category": "fruits-vegetables",
+    "stock": 180,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=665"
+  },
+  {
+    "id": 666,
+    "name": "Sweet Corn 2pcs",
+    "brand": "Fresh Farm",
+    "price": 55,
+    "discountPrice": 48,
+    "category": "fruits-vegetables",
+    "stock": 170,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=666"
+  },
+  {
+    "id": 667,
+    "name": "Bottle Gourd 1pc",
+    "brand": "Fresh Farm",
+    "price": 40,
+    "discountPrice": 35,
+    "category": "fruits-vegetables",
+    "stock": 180,
+    "rating": 4.6,
+    "image": "https://picsum.photos/300?random=667"
+  },
+  {
+    "id": 668,
+    "name": "Bitter Gourd 500g",
+    "brand": "Fresh Farm",
+    "price": 50,
+    "discountPrice": 44,
+    "category": "fruits-vegetables",
+    "stock": 160,
+    "rating": 4.6,
+    "image": "https://picsum.photos/300?random=668"
+  },
+  {
+    "id": 669,
+    "name": "Brinjal Purple 500g",
+    "brand": "Fresh Farm",
+    "price": 45,
+    "discountPrice": 39,
+    "category": "fruits-vegetables",
+    "stock": 170,
+    "rating": 4.7,
+    "image": "https://picsum.photos/300?random=669"
+  },
+  {
+    "id": 670,
+    "name": "Ladies Finger 500g",
+    "brand": "Fresh Farm",
+    "price": 48,
+    "discountPrice": 42,
+    "category": "fruits-vegetables",
+    "stock": 180,
+    "rating": 4.8,
+    "image": "https://picsum.photos/300?random=670"
+  },
+  {
+    "id": 671,
+    "name": "Mushroom Button 200g",
+    "brand": "Fresh Farm",
+    "price": 95,
+    "discountPrice": 85,
+    "category": "fruits-vegetables",
+    "stock": 140,
+    "rating": 4.9,
+    "image": "https://picsum.photos/300?random=671"
   }
 
   ] ,
