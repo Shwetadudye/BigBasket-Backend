@@ -12,10 +12,9 @@
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg",
             "Product-images": [
                     "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg",
-                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-1.jpg",
-                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-2.jpg",
-                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-3.jpg",
-                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-4.jpg"
+                    "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/Iphone1.png",
+                    "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/Iphone2.png",
+                    "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/Iphone3.png"
                     ],
             "description":""
         },
@@ -29,7 +28,12 @@
             "stock":80,
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg",
-            "Product-images":[]
+            "Product-images":[
+              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/10000027-2_8-fresho-banana-robusta.jpg",
+              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/10000027-4_6-fresho-banana-robusta.jpg",
+              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/10000027-5_6-fresho-banana-robusta.jpg",
+              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg"
+            ]
         },
         {
             "id":3,
@@ -41,7 +45,14 @@
             "stock":100,
             "rating":4.6,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Surf%20Excel.jpg",
-            "Product-images":[]
+            "Product-images":[
+              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/215595-3_1-surf-excel-easy-wash-detergent-powder.jpg",
+              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/215595-4_1-surf-excel-easy-wash-detergent-powder.jpg",
+              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/215595-5_1-surf-excel-easy-wash-detergent-powder.jpg",
+              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Surf%20Excel.jpg"
+
+              
+            ]
         },
         {  
             "id":4,
