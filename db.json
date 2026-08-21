@@ -10,6 +10,13 @@
             "stock":20,
             "rating":4.9,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg",
+            "Product-images": [
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg",
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-1.jpg",
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-2.jpg",
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-3.jpg",
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017-4.jpg"
+                    ],
             "description":""
         },
         {   
@@ -21,7 +28,8 @@
             "category":"fruits-vegetables",
             "stock":80,
             "rating":4.4,
-            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg",
+            "Product-images":[]
         },
         {
             "id":3,
@@ -32,7 +40,8 @@
             "category":"Household",
             "stock":100,
             "rating":4.6,
-            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Surf%20Excel.jpg"
+            "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Surf%20Excel.jpg",
+            "Product-images":[]
         },
         {  
             "id":4,
