@@ -12,9 +12,9 @@
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg",
             "Product-images": [
                     "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/iphone%2017.jpg",
-                    "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/Iphone1.png",
-                    "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/Iphone2.png",
-                    "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/Iphone3.png"
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Iphone1.png",
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Iphone2.png",
+                    "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Iphone3.png"
                     ],
             "description":""
         },
@@ -29,10 +29,10 @@
             "rating":4.4,
             "image":"https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg",
             "Product-images":[
-              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/10000027-2_8-fresho-banana-robusta.jpg",
-              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/10000027-4_6-fresho-banana-robusta.jpg",
-              "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/10000027-5_6-fresho-banana-robusta.jpg",
-              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg"
+              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/Banana.jpg",
+              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/10000027-2_8-fresho-banana-robusta.jpg",
+              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/10000027-4_6-fresho-banana-robusta.jpg",
+              "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/10000027-5_6-fresho-banana-robusta.jpg"
             ]
         },
         {
