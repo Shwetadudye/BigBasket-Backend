@@ -1152,7 +1152,7 @@
     "category": "Tea",
     "stock": 95,
     "rating": 4.5,
-    "image": "https://github.com/Shwetadudye/BigBasket-Backend/blob/main/Utilities/red%20Label.jpg"
+    "image": "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/red%20Label.jpg"
   },
   {
     "id": 104,
@@ -1163,7 +1163,7 @@
     "category": "Tea",
     "stock": 130,
     "rating": 4.7,
-    "image": ""
+    "image": "https://raw.githubusercontent.com/Shwetadudye/BigBasket-Backend/refs/heads/main/Utilities/red%20Label.jpg"
   },
   {
     "id": 105,
@@ -6623,6 +6623,8 @@
     "rating": 4.8,
     "image": "https://picsum.photos/300?random=600"
   },
+
+  
   {
     "id": 601,
     "name": "Colgate Strong Teeth Toothpaste",
@@ -6677,17 +6679,6 @@
     "stock": 150,
     "rating": 4.7,
     "image": "https://picsum.photos/300?random=605"
-  },
-  {
-    "id": 606,
-    "name": "Fogg Body Spray",
-    "brand": "Fogg",
-    "price": 275,
-    "discountPrice": 245,
-    "category": "Beauty  & Hygiene ",
-    "stock": 180,
-    "rating": 4.7,
-    "image": "https://picsum.photos/300?random=606"
   },
   {
     "id": 607,
@@ -7205,83 +7196,6 @@
     "stock": 100,
     "rating": 4.9,
     "image": "https://picsum.photos/300?random=653"
-  },
-  {
-    "id": 654,
-    "name": "Tomato Hybrid 1kg",
-    "brand": "Fresh Farm",
-    "price": 45,
-    "discountPrice": 39,
-    "category": "fruits-vegetables",
-    "stock": 250,
-    "rating": 4.7,
-    "image": "https://picsum.photos/300?random=654"
-  },
-  {
-    "id": 655,
-    "name": "Potato 2kg",
-    "brand": "Fresh Farm",
-    "price": 70,
-    "discountPrice": 62,
-    "category": "fruits-vegetables",
-    "stock": 280,
-    "rating": 4.8,
-    "image": "https://picsum.photos/300?random=655"
-  },
-  {
-    "id": 656,
-    "name": "Onion 2kg",
-    "brand": "Fresh Farm",
-    "price": 80,
-    "discountPrice": 72,
-    "category": "fruits-vegetables",
-    "stock": 260,
-    "rating": 4.7,
-    "image": "https://picsum.photos/300?random=656"
-  },
-  {
-    "id": 657,
-    "name": "Carrot 500g",
-    "brand": "Fresh Farm",
-    "price": 40,
-    "discountPrice": 35,
-    "category": "fruits-vegetables",
-    "stock": 190,
-    "rating": 4.8,
-    "image": "https://picsum.photos/300?random=657"
-  },
-  {
-    "id": 658,
-    "name": "Cucumber 500g",
-    "brand": "Fresh Farm",
-    "price": 35,
-    "discountPrice": 30,
-    "category": "fruits-vegetables",
-    "stock": 210,
-    "rating": 4.7,
-    "image": "https://picsum.photos/300?random=658"
-  },
-  {
-    "id": 659,
-    "name": "Capsicum Green 500g",
-    "brand": "Fresh Farm",
-    "price": 60,
-    "discountPrice": 54,
-    "category": "fruits-vegetables",
-    "stock": 170,
-    "rating": 4.8,
-    "image": "https://picsum.photos/300?random=659"
-  },
-  {
-    "id": 660,
-    "name": "Cauliflower 1pc",
-    "brand": "Fresh Farm",
-    "price": 55,
-    "discountPrice": 48,
-    "category": "fruits-vegetables",
-    "stock": 160,
-    "rating": 4.7,
-    "image": "https://picsum.photos/300?random=660"
   },
   {
     "id": 661,
